@@ -2,6 +2,8 @@
 
 This repository focuses on mastering Azure storage services using Python and Azure SDK to build, manage, and automate storage infrastructure for Internal Development Platform (IDP) development.
 
+- [References](./REFERENCES.md)
+
 ## 🎯 Learning Objectives
 
 By working through this repository, you will:
